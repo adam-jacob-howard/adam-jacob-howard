@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adam-jacob-howard
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning about machine learning techniques.
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning about machine learning techniques
 - 📫 You can reach me via email at adam.howard1@montana.edu
 
 <!---
